@@ -1,0 +1,16 @@
+Engine/Binaries/Win64/D3D12/D3D12Core.dll	2024-01-06T05:12:25.084Z
+Engine/Binaries/Win64/OpenImageDenoise.dll	2024-01-06T05:12:28.410Z
+Engine/Binaries/Win64/tbb.dll	2024-01-06T05:12:29.892Z
+Engine/Binaries/Win64/tbb12.dll	2024-01-06T05:12:29.893Z
+Engine/Binaries/Win64/tbbmalloc.dll	2024-01-06T05:12:29.893Z
+Engine/Binaries/Win64/UnrealGame-Win64-Shipping.exe	2024-01-06T05:12:41.776Z
+Engine/Extras/Redist/en-us/UEPrereqSetup_x64.exe	2024-01-06T05:14:00.843Z
+Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll	2024-01-06T05:11:59.785Z
+Engine/Binaries/ThirdParty/MsQuic/v220/win64/msquic.dll	2024-01-06T05:12:20.806Z
+Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll	2024-01-06T05:12:20.813Z
+Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll	2024-01-06T05:12:21.119Z
+Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll	2024-01-06T05:12:23.942Z
+Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2024-01-06T05:12:23.943Z
+Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2024-01-06T05:12:24.010Z
+Engine/Content/Slate/Cursor/invisible.cur	2024-01-06T05:13:06.010Z
+MyProject3.exe	2024-01-06T23:22:38.729Z
